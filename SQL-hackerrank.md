@@ -73,6 +73,8 @@ CITY | VARCHAR2(21)
 STATE | VARCHAR2(2)
 LAT_N | NUMBER
 LONG_W | NUMBER
+
+
 where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 
@@ -218,11 +220,11 @@ From TRIANGLES;
 
 *P(R)* represents a pattern drawn by Julia in *R* rows. The following pattern represents *P(5)*:
 
-> \* * * * *
-> \* * * *
-> \* * *
-> \* *
-> *
+ * * * * *
+ * * * *
+ * * *
+ * *
+ *
 
 Write a query to print the pattern *P(20)*.
 
@@ -248,11 +250,12 @@ END ;
 
 *P(R)* represents a pattern drawn by Julia in *R* rows. The following pattern represents *P(5)*:
 
-> \* * * * *
-> \* * * *
-> \* * *
-> \* *
-> *
+*
+* * 
+* * * 
+* * * *
+* * * * *
+
 
 Write a query to print the pattern *P(20)*.
 
