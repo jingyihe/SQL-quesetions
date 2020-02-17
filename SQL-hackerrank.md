@@ -188,10 +188,10 @@ Each row in the table denotes the lengths of each of a triangle’s three sides.
 
 **Sample Output**
 
-> Isosceles
-> Equilateral
-> Scalene
-> Not A Triangle
+Isosceles
+Equilateral
+Scalene
+Not A Triangle
 
 **Explanation**
 Values in the tuple (20,20,23) form an Isosceles triangle, because A=B.
@@ -220,7 +220,7 @@ From TRIANGLES;
 
 *P(R)* represents a pattern drawn by Julia in *R* rows. The following pattern represents *P(5)*:
 
- \* \* \* \* \*
+ \\* \\* \\* \\* \\*
  \* \* \* \*
  \* \* \*
  * *
