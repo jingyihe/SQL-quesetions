@@ -1,3 +1,15 @@
+* Weather Observation Station 5
+* Weather Observation Station 6
+* Weather Observation Station 7
+* Higher Than 75 Marks
+* Type of Triangle
+* Draw The Triangle 1
+* Draw The Triangle 2
+* Top Earners
+* The Blunder
+
+
+
 ## Weather Observation Station 5
 
 Query the two cities in STATION with the shortest and longest CITY names, as well as their respective lengths (i.e.: number of characters in the name). If there is more than one smallest or largest city, choose the one that comes first when ordered alphabetically.
@@ -228,7 +240,7 @@ END ;
 
 
 
-** Draw The Triangle 2
+## Draw The Triangle 2
 
 *P(R)* represents a pattern drawn by Julia in *R* rows. The following pattern represents *P(5)*:
 
