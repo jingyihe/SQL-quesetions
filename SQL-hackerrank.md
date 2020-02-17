@@ -33,7 +33,7 @@ Note
 You can write two separate queries to get the desired output. It need not be a single query.
 
 **Solution**
-```
+```sql
 SELECT DISTINCT CITY
 FROM STATION
 WHERE lower(substring(CITY, 1,1)) in ('a', 'e','i','o','u');
