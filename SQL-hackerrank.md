@@ -1,3 +1,4 @@
+SQL Hackerrank Questisons:
 * Weather Observation Station 5
 * Weather Observation Station 6
 * Weather Observation Station 7
@@ -64,6 +65,7 @@ Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from 
 Input Format
 
 The **STATION** table is described as follows:
+
 Field | Type
 ------------ | -------------
 ID | NUMBER
@@ -72,6 +74,8 @@ STATE | VARCHAR2(2)
 LAT_N | NUMBER
 LONG_W | NUMBER
 where LAT_N is the northern latitude and LONG_W is the western longitude.
+
+
 **Solution**
 
 ```sql
